@@ -1,0 +1,15 @@
+
+.presentacion1{
+    background-color: purple;
+}
+.presentacion2{
+    background-color: rgb(240, 165, 26);
+    border: 2px solid orangered;
+}
+.presentacion3{
+    border-left: 4px solid fuchsia;
+}
+.presentacion4{
+    border-top: 2px solid fuchsia;
+    border-bottom: 2px solid fuchsia;
+}

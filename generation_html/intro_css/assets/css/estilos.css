@@ -1,0 +1,59 @@
+/*Selector universal
+*{
+    background-color: blue;
+}*/
+
+/*Selector de etiqueta*/
+/*elemento HTML{
+
+}*/
+
+/*Selector de clase*/
+.cuadro{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse ;
+    border: 1px solid burlywood;
+   /* border-radius: 50%;*/
+    border-radius: 10px;
+}
+
+/*Selector de ID*/
+#forma{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.color{
+    background-color: aquamarine;
+}
+.color{
+    background-color: blue;
+}
+.color{
+    background-color: blueviolet;
+}
+.color-texto{
+    color: brown;
+    background-color: burlywood;
+}
+.forma{
+    height: auto;
+    width: auto;
+
+}
+.borde{
+    /*border-top: 3px soli green;
+    border-right: 3px soli red;
+    border-bottom: 3px soli black;
+    border-left: 3px soli blue;*/
+    border: 3px solid black;
+    text-align: center;
+    line-height: 100px;
+}
+
+p{
+    font-family: cursive;
+    font-size: 20px;
+}
